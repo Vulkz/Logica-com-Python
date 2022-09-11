@@ -11,3 +11,17 @@
 3. Desenvolva um programa em python que peça para o usuário digitar dois lados de um retângulo. No final mostre os lados e sua área calculada.
 
     * [*Resposta.*](exercicio_3.py)
+
+4. Desenvolva um programa em python que peça para o usuário digitar dois números inteiros. 
+
+    Calcule e mostre: 
+
+        O produto do primeiro com o segundo;
+
+        A soma do primeiro com o segundo;
+
+        A soma da metade do primeiro com a metade do segundo;
+
+        O primeiro elevado ao quadrado mais o segundo elevado ao cubo.
+
+    * [*Resposta.*](exercicio_4.py)
