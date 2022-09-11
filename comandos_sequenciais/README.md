@@ -8,3 +8,6 @@
     
     * [*Resposta.*](exercicio_2.py)
      
+3. Desenvolva um programa em python que peça para o usuário digitar dois lados de um retângulo. No final mostre os lados e sua área calculada.
+
+    * [*Resposta.*](exercicio_3.py)
