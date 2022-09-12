@@ -39,5 +39,4 @@
     * [*Resposta.*](exercicio_5.py)
     
 ---
----
     
