@@ -23,3 +23,9 @@
     * [Resposta.](exercicio_4.py)
 
 ---
+
+5. Desenvolva um programa em python que pergunte o nome de um aluno e o turno em que ele estuda, sendo:` M - Matutino, V - Vespretino, N - Noturno.` No final mostrar o nome do aluno e a mensagem correspondente `"Bom dia!", "Boa Tarde!", "Boa Noite!" ou "Valor invalido".`
+
+    * [Resposta.](exercicio_5.py)
+
+---
