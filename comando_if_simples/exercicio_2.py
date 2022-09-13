@@ -1,7 +1,12 @@
-numero = list()
+num1 = float(input("1° Número: "))
+num2 = float(input("2° Número: "))
+num3 = float(input("3° Número: "))
 
-for c in range(3):
-    num = int(input(f"Digite o {c+1}° número: "))
-    numero.append(num)
+maior = num1
 
-print(f"Maior: {max(numero)}")
+if maior < num2:
+    maior = num2
+if maior < num3:
+    maior = num3
+
+print(f"Maior: {maior}")
