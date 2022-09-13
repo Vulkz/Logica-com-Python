@@ -11,3 +11,9 @@
     * [Resposta.](exercicio_2.py)
 
 ---
+
+3. Desenvolva um programa em python para uma loja que receba o valor da compra e a quantidade de prestações que o cliente deseja pagar. No final calcular o valor de cada prestação se o valor de cada prestação for menor que R$20,00 - "Não pode ser financiado" caso contrário mostrar o valor da prestação.
+
+    * [Resposta.](exercicio_3.py)
+
+---
