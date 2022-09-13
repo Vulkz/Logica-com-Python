@@ -17,3 +17,9 @@
     * [Resposta.](exercicio_3.py)
 
 ---
+
+4. Desenvolva um program em python que pergunte o preço de três produtos. No final mostre qual deve ser comprado, sabendo que a decisão é sempre pelo mais barato.
+
+    * [Resposta.](exercicio_4.py)
+
+---
