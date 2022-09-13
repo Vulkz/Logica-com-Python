@@ -19,3 +19,9 @@
     * [Resposta.](exercicio_2.py)
 
 ---
+
+3. Desenvolva um programa em python que leia três números. No final mostre-os em ordem crescente.
+
+    * [Resposta.](exercicio_3.py)
+
+---
