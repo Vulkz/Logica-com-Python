@@ -26,7 +26,7 @@
 
 ---
 
-4. Desenvolva um programa em python que leia um número de 1 a 7. No final exiba o dia da semana correspondente ao número, ex: ` 1 - Domingo.` 
+4. Desenvolva um programa em python que leia um número de 1 a 7. No final exiba o dia da semana correspondente, ex: ` 1 - Domingo.` 
 
     * [Resposta.](exercicio_4.py)
 
