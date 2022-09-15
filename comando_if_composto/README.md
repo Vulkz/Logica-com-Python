@@ -31,3 +31,15 @@
     * [Resposta.](exercicio_4.py)
 
 ---
+
+5. Desenvolva um programa em python que leia três lados de um triângulo. No final se os lados digitados não formarem um triângulo mostrar "Os valores não formam um triângulo", se formarem informe se o triângulo é:
+    
+    |     Tipo    |        Condição        |
+    |-------------|------------------------|
+    | Equilatero  | três lados iguais      |  
+    | Isóceles    | dois lados iguais      |
+    | Escaleno    | três lados diferenstes |
+
+    * [Resposta.](exercicio_5.py)
+
+---
