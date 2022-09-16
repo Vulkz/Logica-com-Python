@@ -12,3 +12,8 @@
 
     * [Resposta.](exercicio_1.py)
 
+
+2. Desenvolva um programa em python que peça para o usuário digitar quantos valores ele quer avaliar e depois peça os valores que serão avaliados. No final mostre o maior valor digitado.
+
+    * [Resposta.](exercicio_2.py)
+
