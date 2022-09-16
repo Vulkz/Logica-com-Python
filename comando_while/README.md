@@ -17,3 +17,9 @@
 
     * [Resposta.](exercicio_2.py)
 
+
+3. Desenvolva um programa em python que peça para o usuário digitar valores inteiros, parando quando for digitado o valor 0. Durante a digitação mostrar um embaixo do outro somente os valores impares.
+
+    * [Resposta.](exercicio_3.py)
+
+    
