@@ -4,19 +4,16 @@
 
     * [*Resposta.*](exercicio_1.py)
 
----
 
 2. Desenvolva um programa em python que receba um valor em real(R$) e a cotação do dolar no momento(R$). No final mostre o valor convertido em dolar(US$).  
     
     * [*Resposta.*](exercicio_2.py)
 
----
 
 3. Desenvolva um programa em python que peça para o usuário digitar dois lados de um retângulo. No final mostre os lados e sua área calculada.
 
     * [*Resposta.*](exercicio_3.py)
 
----
 
 4. Desenvolva um programa em python que peça para o usuário digitar dois números inteiros. 
 
@@ -32,11 +29,10 @@
 
     * [*Resposta.*](exercicio_4.py)
 
----
 
 5. Desenvolva um programa em python que pessa para o usuário digitar a altura e o peso de uma pessoa. No final calcule o indice de massa corporal(IMC).
 
     * [*Resposta.*](exercicio_5.py)
     
----
+
     
