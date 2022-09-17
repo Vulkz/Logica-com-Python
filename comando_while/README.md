@@ -28,3 +28,7 @@
     * [Resposta.](exercicio_4.py)
 
 
+5. Desenvolva um programa em python que mostre todos os números primos ente 1 e `n` sendo `n` um número primo fornecido pelo usuário.
+
+    * [Resposta.](exercicio_5.py)
+
