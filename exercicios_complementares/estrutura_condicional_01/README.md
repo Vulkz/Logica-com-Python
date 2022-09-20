@@ -9,3 +9,8 @@
 
     * [Resposta.](exercicio_2.py)
 
+
+3. Escreva um programa que leia três números. No fional imprima o maior e o menor. 
+
+    * [Resposta.](exercicio_3.py)
+
