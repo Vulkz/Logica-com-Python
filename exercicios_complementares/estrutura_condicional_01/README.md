@@ -15,4 +15,9 @@
     * [Resposta.](exercicio_3.py)
 
 4. Escreva um programa que pergunte o salário do funcionário e calcule o valor do aumento. Para salários superiores a R$ 1.250,00 calcule um aumento de 10%. Para os inferiores ou iguais dar um aumento de 15%.
+
     * [Resposta.](exercicio_4.py)
+
+5. Execute o programa no qual o usuário entre com a idade do carro. Se a idade for menor ou igual a 3 anos imprima “Seu carro é novo”, caso contrario “Seu carro é velho”. 
+
+    * [Resposta.](exercicio_5.py)
