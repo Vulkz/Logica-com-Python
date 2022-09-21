@@ -21,3 +21,7 @@
 5. Execute o programa no qual o usuário entre com a idade do carro. Se a idade for menor ou igual a 3 anos imprima “Seu carro é novo”, caso contrario “Seu carro é velho”. 
 
     * [Resposta.](exercicio_5.py)
+
+6. Escreva um programa que pergunte a distância que um passageiro deseja percorrer em km. Calcule o preço da passagem, cobrando R$ 0,50 por km para viagens de até 200 km, e R$ 0,45para viagens mais longas.
+
+    * [Resposta.](exercicio_6.py)
