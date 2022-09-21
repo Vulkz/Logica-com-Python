@@ -25,3 +25,16 @@
 6. Escreva um programa que pergunte a distância que um passageiro deseja percorrer em km. Calcule o preço da passagem, cobrando R$ 0,50 por km para viagens de até 200 km, e R$ 0,45para viagens mais longas.
 
     * [Resposta.](exercicio_6.py)
+
+7. Escreva um programa que calcular a categoria de um produto e determine o preço pela tabela: 
+
+    | Categorias | Valor |
+    |------------|-------|
+    |     1      | R$ 10 | 
+    |     2      | R$ 15 |
+    |     3      | R$ 19 |
+    |     4      | R$ 23 |
+    |     5      | R$ 27 |
+
+    * [Resposta.](exercicio_7.py)
+
