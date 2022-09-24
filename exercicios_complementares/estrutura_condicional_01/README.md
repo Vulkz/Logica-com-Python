@@ -41,3 +41,7 @@
 8. Escreva um programa que leia dois números e que pergunte qual operação você deseja realizar.  Você  deve  poder  calcular  soma  (+),  subtração  (-),  multiplicação  (*)  e  divisão  (/). Exiba o resultado da operação solicitada.
 
     * [Resposta.](exercicio_8.py)
+
+9. Escreva um programa para aprovar o empréstimo bancário para compra de uma casa. O programa deve perguntar o valor da casa a comprar, o salário e a quantidade de anos a pagar. O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da prestação como sendo o valor da casa a comprar dividido pelo numero de meses a pagar.
+
+    * [Resposta.](exercicio_9.py)
