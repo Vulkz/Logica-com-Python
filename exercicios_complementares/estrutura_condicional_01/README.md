@@ -45,3 +45,16 @@
 9. Escreva um programa para aprovar o empréstimo bancário para compra de uma casa. O programa deve perguntar o valor da casa a comprar, o salário e a quantidade de anos a pagar. O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da prestação como sendo o valor da casa a comprar dividido pelo numero de meses a pagar.
 
     * [Resposta.](exercicio_9.py)
+
+10. Escreva um programa que calcule o preço a pagar pelo fornecimento de energia elétrica. Pergunte a quantidade de kWh consumida e o tipo de instalação: R para residencial, I para industrial e C para comércios. Calcule o preço a pagar de acordo com a tabela a seguir:
+
+    |    Tipo     | kwh  | AB Valor | AC Valor |
+    |-------------|------|----------|----------|
+    | Residencial | 500  | R$   0.40| R$   0.65|
+    | Comercial   | 1000 | R$   0.55| R$   0.60|
+    | Industrial  | 5000 | R$   0.55| R$   0.60|
+
+
+    AC - Acima | AB - Abaixo
+
+    * [Resposta.](exercicio_10.py)   
