@@ -15,3 +15,10 @@
 4. Leia um número real. Se o número for positivo imprima a raiz quadrada. Do contrário, imprima o número ao quadrado.
 
     * [Resposta.](exercicio_04.py)
+
+5. Faça um programa que leia um número e caso ele for positivo, calcule e mostre:
+
+        * O número digitado ao quadrado.
+        * A raiz quadrada do número digitado.
+
+    * [Resposta.](exercicio_05.py)
