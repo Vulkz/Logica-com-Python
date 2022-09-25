@@ -11,3 +11,7 @@
 3. Leia um número fornecido pelou suário. Se esse número for positivo, calcule a raiz quadrada do número. Se o número for negativo, mostre uma mensagem dizendo que o número é inválido.
 
     * [Resposta.](exercicio_03.py)
+
+4. Leia um número real. Se o número for positivo imprima a raiz quadrada. Do contrário, imprima o número ao quadrado.
+
+    * [Resposta.](exercicio_04.py)
