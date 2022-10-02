@@ -26,3 +26,7 @@
 6. Escreva um programa que leia um número inteiro com 3 dígitos, maior do que zero e devolva, na tela, a soma de todos os seus algarismos.  Por exemplo, ao número 251 correspondera a (2 + 5 + 1).
 
     * [Resposta.](exercicio_06.py)
+
+7. Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto (MG 7%; SP 12%; RJ 15%; MS 8%).   Faça  um  programa  em  que  o  usuárioentre  com  o  valor  e  o  estado  destino  do produto e o programa retorne o preçofinal do produto  acrescido do  imposto do  estado  em  que ele serávendido.    Se o  estado  digitado nãofor válido, mostrar uma mensagem de erro.
+
+    * [Resposta.](exercicio_07.py)
