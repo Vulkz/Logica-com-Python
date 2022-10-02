@@ -22,3 +22,7 @@
         * A raiz quadrada do número digitado.
 
     * [Resposta.](exercicio_05.py)
+
+6. Escreva um programa que leia um número inteiro com 3 dígitos, maior do que zero e devolva, na tela, a soma de todos os seus algarismos.  Por exemplo, ao número 251 correspondera a (2 + 5 + 1).
+
+    * [Resposta.](exercicio_06.py)
