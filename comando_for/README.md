@@ -4,3 +4,9 @@
 
     * [Resposta](exercicio_1.py)
     
+
+2. Desenvolva um programa em python que exiba em ordem decrescente todos os números de 10 até 1.
+
+    * [Resposta](exercicio_2.py)
+
+
