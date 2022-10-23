@@ -19,4 +19,8 @@
 
     * [Resposta](exercicio_3.py)
     
-     
+    
+4. Desenvolva um programa em python que solicite um número inteiro e mostre os números primos entre 1 e esse número lido.
+
+    * [Responda](exercicio_4.py)
+
