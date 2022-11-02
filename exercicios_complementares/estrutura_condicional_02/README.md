@@ -30,3 +30,13 @@
 7. Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto (MG 7%; SP 12%; RJ 15%; MS 8%).   Faça  um  programa  em  que  o  usuárioentre  com  o  valor  e  o  estado  destino  do produto e o programa retorne o preçofinal do produto  acrescido do  imposto do  estado  em  que ele serávendido.    Se o  estado  digitado nãofor válido, mostrar uma mensagem de erro.
 
     * [Resposta.](exercicio_07.py)
+
+8. Leia a distânciaem Km e a quantidade de litros de gasolina consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma mensagem de acordo com a tabela abaixo:
+
+    |  Consumo  | (Km/l) |     Mensagem      |
+    |-----------|--------|-------------------|
+    | Menor que |   8    |  Venda o carro !  |
+    |   Entre   | 8 e 12 |    Econômico !    |
+    | Maior que |   12   | Super econômico ! |
+
+    *[Resposta.](exercicio_08.py)
