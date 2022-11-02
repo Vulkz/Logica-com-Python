@@ -24,3 +24,6 @@
 
     * [Responda](exercicio_4.py)
 
+5. Desenvolver um programa em Python que solicite ao usuário dois números inteiros, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilizar a função de potência da linguagem.
+
+    * [Responda](exercicio_5.py)
